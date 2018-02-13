@@ -26,3 +26,15 @@ public class Main{
         System.out.println("FIN");
     }
 }
+
+public class Sumar{
+    int a = 3;
+    int b = 4;
+
+    public int sumanumero(){
+        int c;
+        c = a+b;
+
+        return b;
+    }
+}
