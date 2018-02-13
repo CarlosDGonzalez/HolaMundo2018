@@ -16,6 +16,13 @@ public class Main{
         System.out.println("La multiplicacion de los numeros "+var1+"*"+var2+" es= "+(var1*var2));
         System.out.println("La division de los numeros "+var1+"/"+var2+" es= "+division);
 
+        int var3 = 100;
+
+        while(var3>0){
+            System.out.println(var3);
+            var3--;
+        }
+
         System.out.println("FIN");
     }
 }
